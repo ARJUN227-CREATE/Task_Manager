@@ -1,15 +1,15 @@
-Task Manager CLI Application
-Description:
-Task Manager CLI is a command line tool. Its helps user to track their task.Users can Add, View, Delete and mark task is Completed. Save the task to a JSON file, allowing to load the file next time when use the application
+# Task Manager CLI Application
 
-Features
-Add a task
-View task
-Delete a task
-Mark as complete
-save task as JSON file
-Requrements
-python 3
+Task Manager CLI is a command line tool that helps users track their tasks. It allows users to add, view, delete, and mark tasks as completed. Tasks are saved to a JSON file, allowing them to be loaded the next time the application is used, making task management efficient and persistent.
 
-Installation
-To work with this project, clone the repository using this URL. repository URL : 
+## Features
+
+1. **Add a Task** - Add a new task to your task list.
+2. **View Tasks** - View all tasks, including their status (completed or not).
+3. **Delete a Task** - Remove a specific task from the list.
+4. **Mark as Complete** - Mark a task as completed.
+5. **Save Tasks to JSON** - Save tasks to a JSON file for persistence.
+
+## Requirements
+
+- Python 3
