@@ -16,5 +16,5 @@ Task Manager CLI is a command-line tool designed to help users efficiently track
 
 ## Installation
 
-To work with this project, clone the repository using the following URL: https://github.com/ARJUN227-CREATE/Task_Manager
+To work with this project, clone the repository using the following URL: https://github.com/ARJUN227-CREATE/Task_Manager/blob/main/task_manager.py
 
